@@ -1,15 +1,15 @@
 # Hi, I'm Niraj Yadav 👋
 
 ## 🚀 About Me
-I am a Full Stack Developer focused on building scalable web applications using modern technologies.  
+I am a frontend focused on building scalable web applications using modern technologies.  
 I enjoy working on real-world projects like CRM systems, dashboards, and APIs.
 
 ---
 
 ## 🛠 Tech Stack
 - Frontend: React, Tailwind CSS, JavaScript
-- Backend: Laravel, PHP
-- Database: MySQL
+- Backend: Laravel, PHP(Basic)
+- Database: MySQL(Intermediate)
 - Tools: Git, Postman
 
 ---
@@ -27,7 +27,7 @@ I enjoy working on real-world projects like CRM systems, dashboards, and APIs.
 ---
 
 ## 📫 Contact Me
-- Email: your-email@example.com
+- Email: your-nirajy940@gmail.com
 - GitHub: https://github.com/CodeWithNirajYadav
 
 ---
