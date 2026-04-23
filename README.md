@@ -1,24 +1,39 @@
-# 🚀 Hi, I'm Niraj Yadav
-### Full Stack Enthusiast | Open Source Contributor
+# Hi, I'm Niraj Yadav 👋
+
+## 🚀 About Me
+I am a Full Stack Developer focused on building scalable web applications using modern technologies.  
+I enjoy working on real-world projects like CRM systems, dashboards, and APIs.
 
 ---
 
-### 🛠 My Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-</p>
+## 🛠 Tech Stack
+- Frontend: React, Tailwind CSS, JavaScript
+- Backend: Laravel, PHP
+- Database: MySQL
+- Tools: Git, Postman
 
 ---
 
-### 📈 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithNirajYadav&show_icons=true&theme=tokyonight&hide_border=true" alt="Niraj's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithNirajYadav&theme=tokyonight&hide_border=true" alt="Niraj's Streak" />
-</p>
+## 💼 Projects
+- 🔹 CRM System (Lead & Payment Management)
+- 🔹 Admin Dashboard (Analytics + Role-based Access)
+- 🔹 REST API (Authentication with Laravel Sanctum)
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Yadav" height="30" width="40" /></a>
-</p>
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=CodeWithNirajYadav&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- GitHub: https://github.com/CodeWithNirajYadav
+
+---
+
+## ⚡ Focus
+Currently working on:
+- Advanced CRM features
+- Secure API development
+- Performance optimization
