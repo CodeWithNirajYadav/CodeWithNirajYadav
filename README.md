@@ -1,39 +1,62 @@
-# Hi, I'm Niraj Yadav 👋
+<h1 align="center">Hi 👋, I'm Niraj Yadav</h1>
+<h3 align="center">Full Stack Developer | React | Laravel | API Specialist</h3>
+
+---
 
 ## 🚀 About Me
-I am a frontend focused on building scalable web applications using modern technologies.  
-I enjoy working on real-world projects like CRM systems, dashboards, and APIs.
+- 💻 I build scalable web applications (CRM, Admin Panels, APIs)
+- ⚡ Focused on clean UI + secure backend
+- 🌱 Currently improving advanced backend & performance optimization
+- 🎯 Goal: Work on real-world production-level systems
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/your-id" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/CodeWithNirajYadav" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: React, Tailwind CSS, JavaScript
-- Backend: Laravel, PHP(Basic)
-- Database: MySQL(Intermediate)
-- Tools: Git, Postman
+<p>
+<img src="https://skillicons.dev/icons?i=react,laravel,php,js,mysql,tailwind,git,postman" />
+</p>
 
 ---
 
 ## 💼 Projects
-- 🔹 CRM System (Lead & Payment Management)
+- 🔹 CRM System (Lead + Payment Management)
 - 🔹 Admin Dashboard (Analytics + Role-based Access)
-- 🔹 REST API (Authentication with Laravel Sanctum)
+- 🔹 REST API (Authentication using Laravel Sanctum)
 
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=CodeWithNirajYadav&show_icons=true)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWithNirajYadav&show_icons=true" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- Email: your-nirajy940@gmail.com
-- GitHub: https://github.com/CodeWithNirajYadav
+## ⚡ Currently Working On
+- Advanced CRM features  
+- Secure API development  
+- Performance optimization  
 
 ---
 
-## ⚡ Focus
-Currently working on:
-- Advanced CRM features
-- Secure API development
-- Performance optimization
+## 📫 Contact
+- 📧 Email: your-email@example.com
+
+---
+
+⭐️ From Niraj Yadav
