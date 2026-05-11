@@ -13,12 +13,12 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/niraj-yadav-5444641a2/)" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/your-id" target="blank">
+<!-- <a href="https://instagram.com/your-id" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://github.com/CodeWithNirajYadav" target="blank">
 <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
 </a>
@@ -55,7 +55,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email@example.com
+- 📧 Email: nirajy940@gmail.com
 
 ---
 
