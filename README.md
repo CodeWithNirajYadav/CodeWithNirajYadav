@@ -13,8 +13,8 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/niraj-yadav-5444641a2/)" target="blank">
-<!-- <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/> -->
+<a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/niraj-yadav-5444641a2/)" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
 <!-- <a href="https://instagram.com/your-id" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
